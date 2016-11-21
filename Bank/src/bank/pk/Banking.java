@@ -7,6 +7,7 @@ public class Banking
 
 	public static void main(String[] args) 										//main method starts
 	{
+		System.out.println("eeeeeeeeeeeeeeeeeeeee");
 		AccountPlus ashar=new AccountPlus("Ashar",800);							//AccountPlus Object
 		Account kamran=new Account("Kamran");									//Account Object
 		Bank b=new Bank();	
